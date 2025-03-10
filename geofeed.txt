@@ -1,0 +1,9 @@
+# SPEEDNET Geofeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 2025-03-09
+#
+# This data feed provides approximate geo locations for a subset of
+# SPEEDNET IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups
+#ip_prefix,alpha2code,region,city,postal_code
+45.192.12.0/24,CO,CO-MET,PuertoLopez,502001
